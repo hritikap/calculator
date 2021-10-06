@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Click http://hritikap.github.io/calculator to use the app
+
 ## Available Scripts
 
 In the project directory, you can run:
